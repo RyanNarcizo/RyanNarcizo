@@ -13,6 +13,11 @@
   <img align="center" alt="Ryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ryan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ryan-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Ryan-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/illustrator/illustrator-plain.svg">
+  <img align="center" alt="Ryan-C" height="30" width="40" src="https://user-images.githubusercontent.com/86173894/129485210-7dd1c4cc-9b46-42bf-ac2b-d4205cc21c4b.png">
+  <img align="center" alt="Ryan-C" height="30" width="40" src="https://user-images.githubusercontent.com/86173894/129485239-2afea940-ca42-43e5-8719-507bd8fe5dcc.png">
+   
 </div>
   
 ##

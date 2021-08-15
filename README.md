@@ -1,12 +1,12 @@
 <h1>Olá!  Eu sou <b>Ryan Narcizo!</b></h1>
 
 - 🔭 Estou trabalhando como <b>operador de computador</b>, mas sonho em trabalhar com <b>front-end</b>.
-- 🌱 Estou cursando <b>Análise e Desenvolvimento de Sistemas</b> na <b>Universidade Veiga de Almeida (UVA)</b> e atualmente estou no <b>segundo periodo</b>.
+- 🌱 Estou cursando <b>Análise e Desenvolvimento de Sistemas</b> na <b>Universidade Veiga de Almeida (UVA)</b> e atualmente estou no <b>segundo período</b>.
 - 
  <div>
   <a href="https://github.com/RyanNarcizo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RyanNarcizo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanNarcizo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RyanNarcizo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>  
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanNarcizo&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
   <div style="display: inline_block"><br>

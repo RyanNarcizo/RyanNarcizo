@@ -1,7 +1,7 @@
 <h1>Olá!  Eu sou <b>Ryan Narcizo!</b></h1>
 
 - 🔭 Estou trabalhando como <b>operador de computador</b>, mas sonho em trabalhar com <b>front-end</b>.
-- 🌱 Estou cursando <b>Análise e Desenvolvimento de Sistemas</b> na <b>Universidade Veiga de Almeida (UVA)</b> e atualmente estou no <b>segundo período</b>.
+- 🌱 Estou cursando <b>Análise e Desenvolvimento de Sistemas</b> na <b>Universidade Veiga de Almeida (UVA)</b> e atualmente estou no <b>terceiro período</b>.
 - 
  <div>
   <a href="https://github.com/RyanNarcizo">
